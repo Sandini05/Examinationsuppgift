@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 40%;
+    height: 80vh;
+    margin: auto;
+    margin-top: 2%;
+    display: flex;
+}
+
+.box{
+    width: 80%;
+    height: 60vh;
+    background-color:#DDDDDD;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+.textbox{
+    width: 70%;
+    height: 25vh;
+    background-color:#eeeeee;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    border-radius: 5px;
+}
+
+h2{
+    text-align: center;
+}
+
+#quote{
+    text-align: center;
+    padding: 10%;
+    font-size: 20px;
+}
